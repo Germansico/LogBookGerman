@@ -1,0 +1,598 @@
+Logbook
+
+
+Septiembre
+
+20 de Septiembre
+SSD = UNidad de estado sólido HDD = Unidad de disco rígido
+Las fotos a subir a aules son de 2mb + fondo blanco cuadrado
+Nosotros usaremos el Markdown para programar en Github
+Haremos redes locales y sistemas de videovigilancia
+NDG = C++, Cesar
+Investigación propia
+computador cuántico y digital diferencia Coprocesador IA KDE Vida de los componentes Pentexting MVR Diagrama de ojo Tipos de memoria RAM El otro nombre de BIOS Tipos de Sistemas Copias de seguridad Servidores-cliente Arduino Formas de hacer negrita, cursiva y subrayado en whatsapp como congelar la máquina
+Páginas para ver componentes de computadoras
+Pc BOx App informática Del computer
+Tareas Hacer anotaciones de todas las clases y subirlas Github o Bitbucket
+
+22 de Septiembre
+
+Las televisiones tienen soporte (Siempre que te manden a recoger algo, recógelo todo, puede que ese algo sea una soporte)
+Hay que hacer una ficha, para las máquinas que nos dé
+MOvimiento armónico simple: Senoidal Generadores rotativos = Senoidal un miliamperio, pasa el corazón te mata Los diferenciales normalmente disparan a los 30 miliamperios Reducción de la energía
+Los ratones se lo pedimos al profesor, el cable enrollado (solo no funciona un ratón)
+El examen cae fuerte
+(Por el tamaño de la torre, puedes saber que placa tiene)
+en un taller no se tiran las cosas, ni tampoco dejar caer, ni se pasa de punta
+
+Debemos de usar mantel de ule para desarmar Es perjudicial quitar la corriente al pc? Standbite = hay mayor consumo de electricidad, aunque sea poco
+Monitor tubos fluorescentes encendidos
+Antiguamente los computadores eran hechos con ganas, ahora no, ahora lo hace cualquiera
+Pueden quedar puntas afiladas al armar o desarmar la caja, hay que tener cuidado, hay que alejarnos y apretar la herida
+la Chapa trasera de los conectores pueden lastimarte
+Al abrir la caja debes hacerlo con vibraciones (temblando)
+Cooling = Enfreamiento
+Se enfría la máquina porque, hay efecto Julios
+Efecto Julios = Barras de resistencia, calientan el agua, y hay un termostato que apagan las barras de resistencia
+Histéresis: Resistencia mecánica, es un hueco entre los dos estados (abierto-cerrado)
+Amplificador operacional
+Los GPU y CPU, se calientan mucho
+Procesadores del último escalón, se calientan menos
+Mibs = medidas de procesador
+Nitrógeno, forma de refrigeración del CPU
+Marca y modelo de placa = lo haces todo
+TDP del procesador
+Enchufes tiene laminas de metálicas :
+El motor debe estar siempre con conexión a tierra = las picas (se pueden unir con tubería de cobre) se hace depende al terreno en el que trabajes
+Máquinas informáticas o (electrónicas): todas deben tener toma de tierra, electrónica
+Podemos ser una burbuja electrostática, si hay humedad no hay acumulación de carga estática
+SHA= Una función, que inventaron los matemáticos, que crearon para comprobar que es original el archivo
+Telurómetro
+cableado sata y otros CD-rom
+Irfanview = solo descargar el de 32bits y todos sus complementos, más el lenguaje lo más importante la configuración es que vaya a la carpeta del programa (de esta forma lo podemos copiar al pendrive) después instalamos el plugin y después el español Gato rojo chafado es el programa
+(el fondo negro, cambiarlo en amarillo)
+¿Qué piezas tiene una máquina? Placa Disco duro Memoria RAM Tarjeta de red Tarjeta Gráfica Procesador Cooler Fuente de poder
+ficha Hardware
+Procesador Memoria RAM Disco duro Unidad de CD y DVD Tarjeta de video Puertos Monitor Tarjeta de Red Tarjeta de Video Teclado Mouse Fuente de poder Board (marca) Marca de Clase
+Software
+Sistema Operativo Particiones de disco duro Microsoft offcie Navegadores Adobe Reader Compresor de archivos Antivirus Deep freeze Unidades de grabación Otros programas
+Procesador
+Que hay que ver en la máquina
+Si prende
+Programas para saber el hardware de la pc
+hardware info Piriform Speccy. AIDA64 / Hardinfo. SysInspector. CPU-Z / CPU-X. Intel Processor Diagnostic Tool. WiFi Analyzer. Angry IP Scanner. CrystalDiskInfo.
+Editor de videos
+Investigación
+Telurometro Histeresis Circuito eléctrico Circuito electrónico Si rule MOvimiento armónico simple Generadores rotativos Puerto serie Conectores de la Torre Unidades electricos Standbite Alarmas conectadas por radio AUVconectores Tecnologia de acumalción de energía y no (tipos de clase) Enfriamiento líquido Efecto Julios Carga electrostática
+Hiperenlace de ficha
+https://es.slideshare.net/yohanihopkins/ficha-tecnica-pc-48524718
+https://www.irfanview.com/
+Caja minitorres (Hay que revisar las vías y abrirlo a un solo golpe) (hay varios tipos) Placa Base, placa madre Memoria RAN Tipos de conectores Procesador Disipador, y ventilador Fuente Alimentación, módulo de alimentación (algunos tiene botón) Disco Duro 100GB
+Placa ASRock
+
+27 de Septiembre
+
+Primera evaluación=redes y hardware pc
+inventario: se saca fotos, mas un formulario en MArkdown, ficha informativa software de diagnóstico: buscar
+Revisa seguridad y prevención
+Una práctica de manejo de escaleras + medidas de seguridad (momento de instalar)
+Un video reportaje al hacer el proyecto, de instalación,
+Para instalador de sistema: Ventoy o rufus en usb, que tenga espacio para un montón de archivos isos Recordar que siempre que no queramos borrar nada bebemos solo actualizar, no instalar
+Shurfshark: Aplicación para entrar en la DeepWeb o web profunda Esta aplicación debemos usar para buscar cosas técnicas (información para nuestro proyecto)
+(Antes había windows to go pra usb)
+Rufus puede instalar windows 11, quitando restricciones, más de esta forma puedes instalar en aparatos que no cumplen ciertas características
+Linux windows system o solo Linux nativo Comprobación de PC Comprobar que se enciende (boton power on) Se ejecuta una rutina llamada boot al prender la Pc Configuracioón Setap, hay que pedirle que inicie en el usb (F11, o la que sea de producto) Tienes que ver en quie posición esta el usb (primero o segundo en el apaertado del disco duro)
+En el BIOS puedes ver todas las características específicas de la máquina, (voltaje, temperatura, discos duros, etc)
+DIstribución debian=Instalador Linux
+Junior Computer, en Paris 1989 BIOS: cambiar pila (2032) si no se puede cambiar la hora (la hora del BIOS debe ser la actual)
+BIOS Menu herramientas Easy flash (investigar)
+Video 1 (Fabián C. Barrios) En el colegio no te enseñarán hacer aviones
+Música de fondo de buen escuchar, relajante, Tiene una buena introducción, llega a ti de forrma muy natural Tiene un buen manejo de cámara y corporal Nos cuenta historia específica de la educación, mientras lo compara con su vida Dice: La educación normativa, nos enseña a tener una vida normal (somos una pieza de engranaje) Nos enseñan a ser un ciudadano modelo, hacemos el esquema ponze Nos muestra las deficiencias de la educaciones La gente rica, normalmente no tiene una educación normativa, da ejemplo: de Elon Musk, pagando gente, para que no vaya a la u Solo hay catedráticos grises, no son creativos, solo piensan en salir y tener paguita, más tienen ideologías. Ideologías: Son malas, nos crea conformidad de pensamiento, y alumnos que se vayan a una sola opinión ideológica, más ya no genera debates de diferentes tipos de puntos El señor Fabián por lo visto prepara su diálogo, con antelación, más parece que tiene más o menos calculado sus movimientos corporales Dice: Las ideologías en la escuela primaria es malo, debe ser para, los adolescentes Los profesores tienen difícil, porque deben seguir una normativa Un maestro a triunfado cuando sus alumnos aprendieron las capitales de África según la educación normativa, pero un maestro realmente triunfa cuando hace que sus estudiantes se preguntan porque estan ahi las capitales africanas La educación normativa nos quita la imaginación y nos hace ser solo seres que memorizan La genter normalmente olvida después de un tiempo lo que aprendio copmo la forma normativa, nos indica Nos meten cosas que según la edad no corresponde, de niños nos hacen leer el Quijote de la Mnacha, pero si lo leemos de adultos nosotros veremos que es una bella obra
+Tiene música de entrada y salida, más obviamente de intermedio, más regula su voz en todo momento
+Nos fomenta a emprender, más tenemos que ser muiy curiosos, no solo confiar en nuestro talento natural Debemps exponernos a todo lo que podamos, para poder decirnir
+Al final tiene una música motivacional
+Glosario
+Línea de vida (escalera u obra) Capado instalación frugal FOSS ISO Boot Debian=Instalador Linux
+Investigación personal
+Datos y aplicaciones (conocimientos básicos) video reportaje de cuerdas Nudos de cuerda Surfshark(web profunda)(en nuestro usb) ¿como se puede iniciar un sistema operativo de un pendrive? FOSS (para pc y celulares) fotot si o si Ventoy o rufus Buscar de nuevo ISOS Linux windows system Mundo maquero y comandos Módulos(chips especializados)(en PC) Sistema de netrada y salida base (placa base) Como entrar en la BIOS Salto hiperespacio(PC) Marca oliveti (79) BIOs y como cambiar pila + como resetearla Computar Disco Flexible USB HIhg Spreed o Full Spreed cuantos termómetros tiene la pc Gparter(herramienta instalador) Instalador por red
+Tareas Debian 11 net install o live (puedes jugar con él) y Ventoy, solo probar en nustra computadora (descargar de sitios oficiales, sino no) Cuando pongamos el flash, debemos desactivar en tiempo real el defender Valoramos el video del úñtimo video del canal, Fabián C. Barrios (vemos los comentarios) (último video, imágenes creadas por I.A.) (psicología del tocador)
+
+Octubre
+
+4 de Octubre
+
+9 logitec
+2 logitec modelo M-U0026
+7 Logitec modelo M-UAE96
+1 V7 3 modelo M30P10-7E
+1 APD 1 modelo MSU0939
+1 HP 1 modelo M-BT96a
+6 Innobo 1 modelo B-3067586 5 modelo B-43067586
+1 Genius 1 modeloGM-070005
+3 microsoft 1 modelo X08-704000 2 modelo X800898
+mouse negro-plomo mantenimieno (3Go)
+1 modelo MOM56446
+no funcionan
+5
+nos inventamos un red (multiplos de 2)
+ejemplo (haremos al menos 36)
+“C” 192.168. . / 24 redes(odas empiezan poir 192)subred:habitaciones/host=huesped 8 / 8 / 8 0=toda la red 225= rot cast
+subred EE3 no les de s nun apuestta 0, y en la 1 los enrutadores, wifi la dos o LA TRES PODEM OS PONER empezamos por 3 = red
+1-15… máquinas (serán físicas)(si tienen el mismo número, será al ganana)
+Direccion forzada en el Piv4
+click derecho, en la barra de utilidades, abrir configuracción de red, cenro de redes y recursos abajo del mismo ver las propieddes
+nuestra game boy 192.168.0.1
+Demian Sistema Operativo
+P8 Mateo = igual darle paso a la red cableada
+Pin
+Las página, los sabemos por su nombre,
+en la url podemos pedir la traducción del número de efectivo
+en un principio el DNS 8.8.8.8
+instrucción que se llame ping, y luego ponemos la dirección del ordenador del que queremos hablar
+Haremos puente conexión física router-c Portátil por red Conexión inalámbrica
+Examen se hace si o si, si lo tenemos preparado
+Arquitectura: Plataforma debian
+Páginas
+wiki debian
+buscar
+Arquitectura de PC
+PLataforma= Sistema Operativo
+amd64., arquitectura de procesador
+consola de comandos linux (numeral) eres el puto amo
+cambiar un ario de configuración
+consola : almohadilla, sirve para configurar los mensajes sharp inglés
+teclas para activar una consola ctrl+alt+t abre consola
+altt+tab= cambia pantallas porque no pude ser 19; porque viene el 1a, ect, tiene que ser 0019 terminal, consola
+placas de conexión de usb
+instrucción encadenado a oro se puede hacer: lspci barra recta grep “controller”
+ifconfi -alo (a)= configuración de ipo ¿como saber que cosas estan instalados en la consola?
+wlp16s0 lo=flag Grupos de viguerias
+KDE= grupo de gente que hace virguerías FXC Ming El disco está repartido esn zona, omo estacionamientos de autos Banda: Mientras más kilobytes astes se hace mas lento y si es tarifa te van cobrando
+venttaja de consola = no ratón, puedes meter tomando a una computadora remotamente (abres sesión remota antes)
+Dir ; mkadir ; cls ; pci ; clear consola Página
+https://wiki.debian.org/es/Compartir_red_fisica_com_Wifi_system
+Investigar
+Buster Stable
+hombre de la rosa película
+configuración estática y manual buscar
+Katty Perry cantante
+root
+ancho de banda
+6 de Octubre
+
+Si somos smart kids, pondremos en común todas las notas, hay que ser generosos en esta vida
+Debian: logotipo caracol = igual hombre y mujer, machismo (debora)
+Steve Jobs = Apple Él quería un móvil pequeño, diseñar
+Pantalla retina = ver con monóculo para apreciar todo
+Debian no toca el núcleo linux, ellos hacen el resto
+ciclo de vida = el tiempo que estará en funcionamiento ; reciclar el material ;
+¿cómo se construye el software?
+sistema operativo = muchas aplicaciones, más se prueba x3, porque salen errores x3, siempre los sistemas operativos saldrán siempre con errores conocidos y desconocidos (esto se arregla con actualizaciones, cambiando aplicaciones, un parche)
+Distros van por interacción 11, 5 lo que sea
+Netinstaling = que tenga life
+bentoy o directo instalar en el flash
+ISO= paquete comprimido
+1.Estructura geométrica, para hacer y deshacer (iso)
+2.Puede ser híbrido su huésped instalador
+Proceso de arranque
+la placa serializa a 0 todos los registros de chips, genera señal de video, de 80 caracteres por 5 líneas, hace resumen, genera tabas, se va al disco duro, que recibe el control de ejecución El pc se lanza el vacío, a ejecutar el sector 0 del disco = puede haber un malware, es una pequeña desventaja
+Memoria de arranque del sistema operativo unix, mc2, windows, mac, etc
+unix es muy gordo, para grandes PC minix es más pequeño = es el mejor, pero no lo tenemos windows o linux=pc
+ubuntu debian= ubuntadas tai=debian
+¿qué pasa si tengo que arrancar el usb? usb = arranque life o bentoy o rufus
+usb con dos particiones = se hace para compatibilizar usb de memoria grande con una computadora antigua
+localization: grafía, alfabetos, flojo, texto en chino inferior derecha, tipo de fecha el instalador gr´sfiv página debian org openstack = la nube, de copia de sistemas
+ARM = Teléfonos; Power PC
+nube amazon
+chips de memoria RAM = se borran cuando no tiene ecler icifs, Páginas
+Debian org
+aplicación jeep pack
+desmontar= retirar carpetas del sistema
+que ocurre a una máquina recién instalada el sistema operativa: Kwin = gestor de ventanas
+ventanas: superficie rectangular elementos de energía batería. elementos en serie= no tiene autoapagado acumulador: se recarga pila: controles
+continuidad en hospitales: mediometro, resistencia de cada tramo de cable, se anota todo el tiempo los cables + puestas de tierra (ventanas, puertas metálicas, etc) investigación (el paciente es indefenso, esta dormido, es una pena 1) nunca pilas en bolsillo = porque las llaves le pueden prender fuego (se murió)
+¿que hacemos con 2.5 voltios?
+Distrowatch (sitio watch) Distros Pantalla retina IBM comprobador de cableado compilación de un programa
+11 de Octubre
+
+esto no es un sitio de ofimática, esto es un taller
+Formato web
+Redes informáticas, en 1969 Arpanet= militar había también investigación universitaria
+Protocolo aloja= radio, se enviaban bits, en modem paquet, meter los bits en pitiditos, el que lo escucha lo pilla si emiten dos a la vez, se detectaba colisión, se temporiza y volvían a probar
+un emisor envía un paquete los demás se callan (se escucha, portadora, tu emisor local no emite hasta que haya silencio)
+escuetch: función de hablar
+CSMA/CD: protocolo de transmisión anticolisiones
+Segmentación, en varios ordenadores debe haber un receptor
+los empalmes producen impedancias.
+que es mejor osi o tcp-ip
+hay que la modularidad, por ventaja de modularidad las capas son mejor, definiciones del estándar y luego pilas antiguas
+Hardware= una dirección tu eres fulanito y vives ahi, son cajas negras
+MAC: dni de cada de una de las máquinas
+ventajas de modularidad de las pilas,
+se pùede enviar bloques tcp, udp
+udp= flujos de datos complejos +tcp= siempre funciona, cliente de emule
+emule, se puede quedar congelada, si falla un bloque
+instalar windows es de gilipollas, lo mejor es hacer que arranque de un usb
+Si se para un servidor: rompe la memoria
+Quitar corriente todos los sistemas caen, pero eres bestia si lo haces, debes hacer un sistema de borrado, y luego los vendes
+medios: canal de información
+conducido metales cobre, plata, in inalámbrico NFS= muy es antiguo archivos= flujo de datos, se sabe cuando empieza, más cuando no acaba (stream)
+caracter end of fire, es que se acabo
+Linux NFS
+SSH: enchufe seguro, te facilita la comunicación, es fiable
+una terminal es un puerto más (solo importa eol concepto, lo demás no importa)
+los bits se traducen, con máquinas
+Clases de redes: asociar una cantidad mayor o menor de una misma red
+Enlace permanente y canal
+23 de febrero, intento de golpe de estado España, sesión del congreso
+transmisión procrast
+que pasa si uno habla en tonos graves, agudos y ultrasonidos, hay que crear canales y frecuencias de radio
+1 octava es doble frecuencia
+50 comunicaciones simultáneamente en un piano sus octavas
+8000 frecuencias, la tv, no son múltiplos de la otra
+CADA CANAL TIENE 8000
+Al profesor le gusta solo los reportajes de animales, lo demás no le vale (canales de la tv)
+4 emisiones a la vez, hay menos problemas de interferencia
+transmisión telemática puede ir mal o bien, se debe a los compañeros que tienes al centro se le da un ancho de banda T1
+mapa de hilos
+doblar fibra óptica excesivamente, sale un rastro de luz
+calor=infrarrojo
+rojo y azul= ves mal
+verde chaleco= lo ves mejor
+las computadoras fueron hechos especialmente para los humanos, según nuestra vista
+la señal viaja 30 centímetros por segundo
+redes rápidas se quedan más cortas
+señal del par se pueden mezclar
+la corriente eléctrica francesa a españa, puede ocurrir un fenómeno de retorno, y eso se considera pérdida
+transmisores de frecuencia: acoplar la antena con el amplificador de potencia
+importancia del amplificador y la antena deben hacer lo mismo
+fórmula ? = v/f
+cada 10 centímetros aparece un polo magnético, en la frecuencia de una antena de tarjeta de red
+tarjeta de red sin porras, probablemente no funcione, porque se revienta la red cuando no tiene antena y lo hacen funciona
+las tarjetas de red deben tener si o si dos antenas porque se va arruinando
+tarea
+verificación de cables vamos hace una conexión SSH hacer test de velocidad de datos en el celular
+onda electromagnética= es cuántica
+investigar
+el hormiguero antena 8 colores de infrarrojo Servidor de hcp Arpanet Prtocolo aloja IBM primer pc segmentación y microsegmentación Unix en TCP-IP emule sistemas tcp y udp GSM Tipos de computadoras Black out Frecuencias ortogonales Litz FDM redes más rápidas se quedan más cortas porque duplex semi duplex polinizar las líneas partes de una onda recepción diversity modulación de la tv
+
+13 de Octubre
+
+10 elevado a 0 es 1
+Convertir binario a decimal
+opresión y = máscara de red
+acarreo = se añade un bit más a la izquierda (puede ser como la suma)
+el octal es de 0-7 Firmar permisos con Linux
+Jesus Quintero: lo peto con sus programas de entrevistas y más
+ETD: equipo terminal de datos pero dte es inglés
+Cada dato tiene una longitud de bits, o longitud palabra
+word 1 bits, doble word 2bits, nivel bits
+Buses de doble sentido pueden ser.
+receptor = amplificador de señal
+Pila de abajo de protocolos
+Fibra óptica tiene niveles de colores cable coaxial, paralelos, infrarojos, bluetooth, etc
+Divide y vencerás= los avances no involucra a todo de golpe, sino partes
+Pilas de protocolos
+Genera datos que agrupa a lo que hay abajos
+transmisión
+amplificador, se usa una línea balanceada
+telégrafo= no lineal balanceada
+Abstraerse= no te importa lo que haya fuera de tu campo
+Cometido de las capa de la pila
+Bit de corrección se puede perder
+Osi
+unidad de información bit
+nivel red: que máquinas pueden conectarse con otras y cuales no nivel físico: Transceptor nivel de enlace de datos: conmutador nivel de de red: nivel de transporte: no suele estar en el domicilio, proveedor de servicios de internet PCI la información lo hace aparecer en otro lugar
+telefonía Demarcación: 2000 abonados
+conectar vecinos próximos en físico funcionaba muy bien
+Tú eres el que hizo la sesión, puede ser que los datos se envíen de manera distinta; puede ser un disco, una impresor, etc
+traducir idiomas, códigos datos se representan= double word, 4 mil millones decimal, 11bits
+apple e intel, extremo grande, extremo chico, ver su capa de de nivel de presentación
+scH = ENCHUFE SECURE
+ENCAPSULAR DATOS
+
+arriba un texto se pasa a la capa de abajo se recibes un archivo, se repite si no a llegado
+los datos deben pasar rápido pero muy rebanado, asi se transporta la información, en la red
+5G latencia = pilotar vehículo a distancia = recibes a tiempo real, y afectas a nivel real (nivel de tierra)
+LAN virtuales, por cada boca de router se le añade, un edifico aca y el otro aquí
+cambiador de medios = cobre, optica, switch, radioenlaces, etc
+reglas de control = capas de control, leer espero recibir todo o empezar con la cabecera switch = no controla las tramas rotas , pero se le puede poner control y estrategias,
+datagrama= capa de transporte = protocolo pcp y udp
+complementario= RAP de ARP
+switch= tiene tu dirección ip, más tiene una tabla pequeña de 24 zócalos no se puede encadenar muchos switch por falta de memoria y velocidad
+arp= dame la
+proxy= servidor de proximidad
+rutinas =
+pop = es la conexión de salida de red
+RackÇ= empotrado y exento y montaje superficial y mural
+Cada equipo = host
+La tarjeta Nick, cada que manda algo la marca con su mac
+Mayormente se usa en europa el tipo
+cable de consola crossover fast ethernet
+byte: octeto
+bit:
+cmd ping pin 10.10.1.115
+conector modular dentro del rj-45
+investigación
+MC2 Tramas o paquetes OSI Línea de transmisión sistema octal en linux hexadecimal bits, glifos, en dos binario natural, código 2 4 8 1 Clave Morse Chiquitio de la calzado NFC Redes sonnet = 32 bits Rack horizonte dividido wifi british company tipos de red Descargar programas informáticos
+Doom
+linux man arp
+sudo, apt= aplicaciones de instaladores en debian
+
+18 de Octubre
+
+Tipo de equipo Rack, cofre
+Marca Monolyth
+Nombre el producto
+Descripción del producto Es de color negro, sus chapas iguales tiene huecos de ventilación,en la parte superior
+Tamaño 19 pulgadas, tamaño estándar altura 50cm, profundidad 45cm, anchura 60cm
+Unidades 9 unidades
+Altura de instalación
+Ficha técnica
+Tipo de equipo Switch
+Modelo 110024 PORT 3C 16950
+Nombre 3com Superstack
+Descripción del equipo Es de color gris, 18 puertos rj45
+Montaje de rack telemático
+Herramientas
+Gafas de seguridad
+lápiz y goma
+ropa de albañil
+guantes de jardinería
+broca o mecha del 10 modelo s10 y fisher sx
+llave inglesa 10-11
+Carraca
+Arandela
+Instalación de rack
+Altura 57 cm hacia abajo de la de mi casa del televisor agujeros de intalación a 55 de la raya que hicimos
+medir muchas cortar una,
+armario ciego 1.10 altura 80 ancho 40 profunco
+Máquina de taladrar
+Funciones
+Taladrar, calibrar la escopeta sentido delante-detrás
+mesa
+1,50 cm
+Instalación de la red
+Longitud total categoría 6 tramos lineas de pared y mesa Longitud de cada cable Prolongadores
+18 equipos fijos y otros 18 de montaje
+toma adicional por mesa (6)
+usamos primero la broca del 6 en percutor (martillo) y luego de 10
+presupuesto en hoja de cálculo
+enchufes necesitan adaptador
+todo tiene que ir rápido
+20 de Octubre
+
+Android = subsistemas Android no recibe muchas actualizaciones, solo tres años (a los 5 años se olvidan de ti), solo de seguridad Algunos pueden hacer una ROOM COCINADA Archivo txf se manipula los planos del autocad, trabajamos por capas (en enlaces específicos) ¿Trazador de planos (buscar aplicacion que haga planos de FOSS) Draw y (solid works, son piezas) otros alumnos fp (clave mayúsculas o minúsculas) (en enlaces inespecíficos) leer todos los capitulos de los libros (solo quiere que la estructura se quede en nuestra cabezas) Cuello de botella = es lo mismo que un eslabón débil Siempre comprar todas las RAM al mismo tiempo (Aprender todo de la carpeta de fundamentos) Depende de que base estes trabajando, habrá más o menos simbolos(base binaria, base decimal)
+
+Glifo = números, letras o alfanuméricos Número complejo: es una extensión Issac Asimov: Los árabes trajeron los números de la India Números reales: Son el conjunto de todos los números Los múltiplos son con mayúsculas, y los submúltiplos son en minúscula múltiplos binarios son potencias de 2 (potencia de 1000 en binarios = 1024) Los discos que llegan a un 1 terabytes, tienen menos porque se manejan con números binarios Audio muy comprimido quita frecuencias y el formato mp3 te quita bajos Formatos no destructivos para audio “ape” Si tienes un Iphone, comprate un auricular iphone, porque sino no lo escucharás bien, por motivo de bluetooth porque quita frecuencias IP = Internet Protocol LOs empalmes producen interferencias en los cables de redes Sniffer= Buscar datos Se puede poner alarmas para ver si la red se pone lenta, y de esta manera podemos encontrar si alguien nos está pinchando el internet GN3 y packet tracer, simulador libre de redes La calculadora de windows tiene, calculadora para programador. (conversiones de binarios, decimales, etc) Router = Encaminadores Debemos programar un firewall, con Linux Las impresoras son archivos, para los sistemas (todo pasó de datos es un archivo) Para Linux todo es un archivo 2025 todo el servicio analógico dejará de funcionar, salvo si lo conectamos a lo digital Por cableado eléctrico se pude pasar datos
+Tarea Aprender historia de los números, leer “EVOLUCIÓN HISTÓRICA DEL CONCEPTO DE NÚMERO”, más revisar todos los libros de sobre sistemas de numeración Escribir emi nombre y apellido en ascii siglas extendidas Leer los dos libros del: “perfil en orden” Hay que estudiar apuntes rocio y agustín (redes y sistemas), conceptos básicos de redes y conceptos básicos de wifi, ipv6 (luego esto), ejercicios resueltos de redes (en la carpeta para redes) Enlaces sobre redes (debemos descargar, sera examen) Hay que ver múltiplos y submúltiplos Saber conversión de números decimales y binarios
+Clase dos Android = subsistemas Android no recibe muchas actualizaciones, solo tres años (a los 5 años se olvidan de ti), solo de seguridad Algunos pueden hacer una ROOM COCINADA Archivo txf se manipula los planos del autocad, trabajamos por capas (en enlaces específicos) ¿Trazador de planos (buscar aplicacion que haga planos de FOSS) Draw y (solid works, son piezas) otros alumnos fp (clave mayúsculas o minúsculas) (en enlaces inespecíficos) leer todos los capitulos de los libros (solo quiere que la estructura se quede en nuestra cabezas) Cuello de botella = es lo mismo que un eslabón débil Siempre comprar todas las RAM al mismo tiempo (Aprender todo de la carpeta de fundamentos) Depende de que base estes trabajando, habrá más o menos simbolos(base binaria, base decimal)
+
+Glifo = números, letras o alfanuméricos Número complejo: es una extensión Issac Asimov: Los árabes trajeron los números de la India Números reales: Son el conjunto de todos los números Los múltiplos son con mayúsculas, y los submúltiplos son en minúscula múltiplos binarios son potencias de 2 (potencia de 1000 en binarios = 1024) Los discos que llegan a un 1 terabytes, tienen menos porque se manejan con números binarios Audio muy comprimido quita frecuencias y el formato mp3 te quita bajos Formatos no destructivos para audio “ape” Si tienes un Iphone, comprate un auricular iphone, porque sino no lo escucharás bien, por motivo de bluetooth porque quita frecuencias IP = Internet Protocol LOs empalmes producen interferencias en los cables de redes Sniffer= Buscar datos Se puede poner alarmas para ver si la red se pone lenta, y de esta manera podemos encontrar si alguien nos esta pinchando el internet GN3 y packet tracer, simulador libre de redes La calculadora de windows tiene, calculadora para programador. (conversiones de binarios, decimales, etc) Router = Encaminadores Debemos progamar un firewall, con Linux Las impresoras son archivos, para los sistemas (todo paso de datos es un archivo) Para Linux todo es un archivo 2025 todo el servicio analógico dejará de funcionar, salvo si lo conectamos a lo digital Por cableado eléctrico se pude pasar datos Tarea Aprender historia de los números, leer “EVOLUCIÓN HISTÓRICA DEL CONCEPTO DE NÚMERO”, más revisar todos los libros de sobre sistemas de numeración Escribir emi nombre y apellido en ascii siglas extendidas Leer los dos libros del: “perfil en orden” Hay que estudiar apuntes rocio y agustín (redes y sistemas), conceptos básicos de redes y conceptos básicos de wifi, ipv6 (luego esto), ejercicios resueltos de redes (en la carpeta para redes) Enlaces sobre redes (debemos descargar, sera examen) Hay que ver múltiplos y submúltiplos Saber conversión de números decimales y binarios
+
+Noviembre
+
+3 de Noviembre
+Acomodar
+Recoger teclado en bolsa. Recoger ratón, en la bolsa con el teclado. Poner en su sitio las sillas. Apagar la PC. Cerrar ventanas.
+¿qué somos?
+Capataces
+Cosas a saber
+Instalación de Rack Cableados
+Presupuesto
+Toma, bases. terminal, Engastar (greenpar). Paneles (deben ser buenos y nuevas). 8x4 = 8 golpes un cable V abierto no sirve, porque crea falso contacto.
+conector modular 8p 8c conector modular investigar cables termo inyectados Capuchas precio
+cables de interferencia
+Principio de superposición de fuentes
+Diferencia entre catigorìa de 6 y 6A
+Pares trenzados extendidos
+IDC display
+¿qué efecto tiene trenzar los hilos?
+anula la interferencia que se recibe en el cable
+coaxial= vivo y pantalla
+cable P o M, diferentes plásticos
+blindaje metálico
+la señal depende de la posición geométrica
+Tomas puntan cualquier lugar?
+enchufes aéreos, conectores schuko 16 A dos bananas gruesas
+Manguera de 2,5mm cuadrados
+18 mesas tapeta troceada serrucho corte rectos (ingletadora) hoja ancha 2 cm, tipo de dientes para metal, ir hacia atrás dos veces, medir muchas, cortar una
+¿por que no poner 6a?
+20 tomas en total
+Trastocar gps
+servidores adicionales de tiempo
+linux va a una parrilla de servidores de tiempo, o pool hace valoración total de los servidores (pool)
+tienen un valor de tic 27 milésimas de segundos, las computadoras del instituto
+reloj del sistema siempre esta en UTC = tiempo universal coordinado
+El dua tienen que tener la misma hora, tanto linux como windows
+¿como montar nuestros propias servidores de tiempo?
+openwebinars curso de aprender linux desde cero
+Arduino
+https://openwebinars.net/cursos/aprender-linux-desde-cero/
+https://openwebinars.net/cursos/ipv6/
+
+Enero
+
+10 de Enero
+
+Ingeniero igual a pelagato investigar circuitos digitales placa de arduino canal suez está bloqueado
+paralelismo circuito digital y el programa que lo simula
+Secuencias de imágenes, no videos, pero sí gifs que es mejor, para lo que estamos haciendo hay que ahorrar datos.
+Programa de simulación de circuitos digital
+Marc Vidal: “La era de la humanidad”.
+Hay que ver fundamentos, para descargar todo lo que hay, en nuestra querida materia de SIR
+digital simulator
+Gif animado:
+llega internet cerrado, en los semáforos
+En nuestros trabajos debemos hacer números, no monigotes
+En el proyecto del semaforo solo falta la transmisión
+Tia 485
+Miniproyecto
+Asistente de diseño digital, para poder usar la función que podemos usar, y asi no podemos equivocarnos
+display de relojes
+noi se usa sistema secuencial, sino un sistema de complejos, no es secuencial
+Examen el auto fantastico, hay que verlo se puede hacer un contador, no es necesario que reversible
+“Diagrama de estado, y ver sus transiciones” (No usaremos puerta lógica)
+circuito secuencial es creado solo, nosotros no solemos hacerlo, si tenemos el programa claro está
+
+26 de Enero
+
+SE LE PERDONA A VIDA SI LOGRA HACER LO QUE TIENE QUE HACER EL CULPABLE EAS EL PROFESOR PORQUE EL DESACTIVO En el ciber no se puede compartir hay que saber activar redes y ver que es un pin en la parte de abajo debemos rematar T = Q/v q=2 gigabytes v= cuello de botella 50 X 18 minutos Windows portable
+Instalar NEO
+crono hay que hacer particiones, mi padre unidad m y b kilobytes es la oficial de los sistemas informáticos, son binarios 238 Gb linux 50gb windows 100gb gru sesión
+Hay que entrar multiplexar = conmutar varias lineas de uno en uno, solo una vez a
+caja negra= defines una función, de varias salidas lógica estandar primer controlador de audio=chips de tecnología de 100KHz para audio, (hay que dar la vuelta al animal)
+Itˋs the control, calculator
+Se llama muslos, y se la mete en circuitos
+
+Febrero
+
+2 de Febrero
+
+Azimut uno se mueve despacio, alejarse de campo magnético
+Brújula calibrada
+Elevación foco primario
+Tenemos una frecuenciA Intermedio,, cada cable tiene su frecuencia
+3/4 forward error conector
+Elevación
+7 de Febrero
+
+comprar pack de arduino comprarme un celular CSP Hay que tener un usb con arranque de windows la oferta esta bie hay que comentar las cosas, camel camel web que registra todos los precios reserva una año de precios, son ofertas muy puntuales, a veces la web no es muy fiable combinacionales excepción=una forma de evitar desastres mayores(lo hace en automático el programa de programación)
+PRIMER LENGUAJE ASSEMBLE
+Hacer combinacionales y multiplexores, más linux
+Linux se tiene un descongelado (no vale punto exe, sino el sh, intérprete de comandos) máquina virtual, clonezilla restaurar Hay que instalar (digital) word-reference=para saber cómo se pronuncia SP32=El mismo procesador o lotes de 5 y 8 Enchufe micro-usb 1 arduino arduino IDE Examen guardar configuración 1 ardusso
+para poder trabajar con el cesar=cesar compiler(poner este nombre en windows)
+electrónica digital=cursos de programación básica Dv-C++ Gateway visual estudio codio
+Arduino = Apuntes de cursos sobre programas Aules=programas-software=enlaces cursos=Andruino;intro,prog
+pseudo código examen práctico es hacer digital
+RAM virtuales Chack GPT inteligencia artifical hace tesis jueves 2 prueba trimestral
+aprender C++
+instalar máquina virtual en mi laptop, para hacer mi trabajo
+leer hasta el capítulo 6 programación landa= se hacen asi mismas aprender landa arduino y java= gastan obejetos, y usan clases arduino puedes usarlo sin objetos, arduino es muy cutre en el sentido de memoriajuajo Lógica hay que revisar
+briteline= investigar assembler, copilado y semicopilado e interpretado lenguajes de programación
+máquia virtual, bucles primeros son malos C=sin objetos C++= con objetos el plus es latín
+
+9 de Febrero
+
+las máquinas no son autónomas, pero tienen botones nucleares (chistes Mateo)
+0 en LT hace que todo se prenda, puedes regular el brillo del display
+macron= es negado-ortográfico de la rayita
+luz es igual a una onda partícula
+los leds an ido mejorando, a tal punto que son mejores que los halógenos
+este aparato como se llama pg 35 AESI-AII_in_one bit6 de paridad, puede ser par o impar todo el conjunto, se cuentan los unos que te llegan
+patas de control, complicado llegar caracteres tetas, se volvieron locos, no eran buenos y después la cosa se tiro por puertos series, el protocolo es jodido, debes manejar errores, peticiones
+Generador de paridad(investigar)
+de binario a hexadecimal
+Terreno de los aritméticos, el típico bloque que pregunta en recuperación
+Semi-zumbador ASCII 0=48, 0X30, 00110000 par 0, impar 1 Binarios 11111 124816
+Función acarreo
+Hexadecimal=Juanca
+Números antigüos estudiar
+Acarreo en serie, es una solción de servicio empleado ¿puerto de propagación de cada puerta? Apuntes de César estudiar Calculos de CERN, son muy exactos utilizan todos los decimales que archivos faltan en los archivos Arduinos Lach, flipflop= para nosotros es báscula TEORÍA DE GRAFOS
+nunca le des a luz si hueles a gas(consejos Mateo)
+
+14 de Febrero
+
+Un descontador ejemplo de 60s empezaría con el número 59, (semáforo) lach=cerrojo automatas finitos, sino tienen sistemas de circuitos digitales, contadores 64-90…. contra fase=en fase cotraria baile en fase, cumbia inversa de nanosegundos es gigaherzios 10-6 y 10 6
+
+16 de Febrero
+
+Pizarra enero al final el cuestionario datasheet es una buen
+hay empresas que te hacen prototipos de los circuitos
+programas Ki cad 7.0 circuitería electrónica (el pinguino es lunx, manzana mordida es apple y laa ventana es windows) Cad/cae/cam autodesk/eagle fritzing
+tienen ficheros estandarizados Juanca tiene una impresora 3D, no funciona
+
+
+
+
+Marzo
+
+14 de Marzo
+
+Se puede hacer la instalación de un andriod en una pc solo con sistema linux iso del sistema correspondiente control+alt=sale consola en linux ¿como creamos un archivo? entramos en la zona home ¿que es un alias? es un comando (man=manual, se pone para crear alias)
+virtual box=instalar un sistema operativo desde cero debian linux
+¿comandos? aliascrear man man mac directory
+Archivo0 regula no tiene Cambiar nombre neuith udrfgsdjklj
+instrucción aa y la b listas inversas
+manejo de archivos y directorios más empaquetados
+concatenación de archivos como se juntan archivos juntos.txt
+
+16 de Marzo
+
+Ventoy=isos Código gparted sudo gparted (para ver la memoria) ¿como lanzar un programa y cerrar la consola? un sistema nuevo de arranque
+Tabla de particiones más comunes msdos gpt amiga
+¿formatear disco? Gparted ir a pestaña de dispositivo elegir gpy bsd= ¿montar partición en el sistema? ¿que es un ordenador amiga? ¿que es una granja?(Bitcoins)
+Actividad Gparted dispositivo: crear tabla: GPT (borrar disco) nueva partición; etiqueta: Resto; Sistemas de archivos: NTFS 150 Gib 25GiB
+Descargar ISO android-x86
+
+21 de Marzo
+
+OSINT = Son las siglas de Open Source Intelligence o inteligencia de fuentes abiertas CISCO = Electrónica de red
+Debian Firefox Dolphin Nautilus
+sudo = super usuario base
+Práctica
+debian 11 net inst < 400 MB
+mnt “Resto” /media/gru/resto /dev/sda1
+sudo mount umount
+
+
+
+23 de Marzo
+clonar copia de seguridad = estudiar
+rfind Python método (https://www.w3big.com/es/python/att-string-rfind.html#gsc.tab=0 ) implantar un sistema de menú
+control de acceso a los usuarios = para limitar a la gente
+somos el grupo SIR o primero de STI (100GB por alumno)
+Andoid Extensión 4 Resto= ntfs
+Examen Raid, Raid 5 configuración Raid, LBUM Regrup Debian
+Ver Software; enlace archivo, archivos linux
+shadow password
+Instalar buscador chatGPT chatgpteros
+Máquinas actuales, adolecen de sesgo=no contemplan todas las posibilidades
+todo archivo terminado en d= daemon o demonio (escuchador)
+¿que es el kernel?
+se puede copiar y copilar un codigo fuente; de una fuente fiable (por cuestión de virus)
+fstab=es un fichero
+
+30 de Marzo
+
+wifi 6 ¿como empezó la wifi?
+Indexación = clasificador
+Ipv6 conceptos básicos de redes conceptos basicos de wifi rocío
+
+Abril
+4 de Abril
+puntos a explorar
+técnicas a explorar wifi 5 y 6 explorar
+router siempre son capa 3 suelen venir con linux se muere por calor
+taller 5
+mikrotik
+
+Mayo
+4 de Mayo
+
+Banda Base / video compuesto / video estándar (video grabador, se conecta al router, para aumentarle la seguridad, debido a que crea un bloqueo) ver que ancho de banda usan estas cámaras
+Necesitamos Balun para hacer esta instalación del video grabador video grabador entradas de alarma =
+cada cámara tienen detectores volumétricos u otros
+Puertos series:¿cuales? Camara gun
+Camara orientable
+¿cuales son los puntos de acceso? ¿cuales son los puntos de acceso con router? ¿que es un switch o un router?
+En el Aula
+Bancada 1 Bancada 2 Bancada 3 Bancada 4 Bancada 5 Bancada 7
+
+11 de Mayo
+
+¿que es el Firmware? ¿que modifica el firmware en la placa?¿dónde se almacena el firmware?
+https://hardzone.es/reportajes/que-es/firmware-sirve-actualizarlo/
+https://www.xataka.com/basics/que-firmware-que-se-diferencia-drivers
+placa base actualización entre 15-20 minutos
+Brick = placa madre que ya no sirve
+¿que es la RAM y la ROM? https://concepto.de/memoria-rom/
+https://www.xataka.com/basics/memoria-ram-que-sirve-como-mirar-cuanta-tiene-tu-ordenador-movil
+¿que es PS/2? me0n
+virtual box actualizado Mikrotik winbox 64 team viewer
+lo convierto en un ZIP y se lo paso por aules a MAteo el logbook repositorio privado
+
+25 de Mayo
+
+Hasta 4 conexiones al día Perplexity 
+Cursos para interrogar Inteligencias Artificiales (Italia prohibió)
